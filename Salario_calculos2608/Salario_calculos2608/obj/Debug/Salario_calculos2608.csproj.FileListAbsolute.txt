@@ -1,0 +1,8 @@
+C:\Users\Marcelina\Desktop\ExerciciosStone\Salario_calculos2608\Salario_calculos2608\bin\Debug\Salario_calculos2608.exe.config
+C:\Users\Marcelina\Desktop\ExerciciosStone\Salario_calculos2608\Salario_calculos2608\bin\Debug\Salario_calculos2608.exe
+C:\Users\Marcelina\Desktop\ExerciciosStone\Salario_calculos2608\Salario_calculos2608\bin\Debug\Salario_calculos2608.pdb
+C:\Users\Marcelina\Desktop\ExerciciosStone\Salario_calculos2608\Salario_calculos2608\obj\Debug\Salario_calculos2608.csproj.AssemblyReference.cache
+C:\Users\Marcelina\Desktop\ExerciciosStone\Salario_calculos2608\Salario_calculos2608\obj\Debug\Salario_calculos2608.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcelina\Desktop\ExerciciosStone\Salario_calculos2608\Salario_calculos2608\obj\Debug\Salario_calculos2608.csproj.CoreCompileInputs.cache
+C:\Users\Marcelina\Desktop\ExerciciosStone\Salario_calculos2608\Salario_calculos2608\obj\Debug\Salario_calculos2608.exe
+C:\Users\Marcelina\Desktop\ExerciciosStone\Salario_calculos2608\Salario_calculos2608\obj\Debug\Salario_calculos2608.pdb
