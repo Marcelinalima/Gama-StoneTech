@@ -1,0 +1,3 @@
+C:\Users\Marcelina\Desktop\projectApp\Funcionario_Salario\Funcionario_Salario\obj\Debug\Funcionario_Salario.csproj.AssemblyReference.cache
+C:\Users\Marcelina\Desktop\projectApp\Funcionario_Salario\Funcionario_Salario\obj\Debug\Funcionario_Salario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcelina\Desktop\projectApp\Funcionario_Salario\Funcionario_Salario\obj\Debug\Funcionario_Salario.csproj.CoreCompileInputs.cache

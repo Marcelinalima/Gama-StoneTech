@@ -1,0 +1,8 @@
+C:\Users\Marcelina\Desktop\projectApp\Exercicio_Salario\Exercicio_Salario\bin\Debug\Exercicio_Salario.exe.config
+C:\Users\Marcelina\Desktop\projectApp\Exercicio_Salario\Exercicio_Salario\bin\Debug\Exercicio_Salario.exe
+C:\Users\Marcelina\Desktop\projectApp\Exercicio_Salario\Exercicio_Salario\bin\Debug\Exercicio_Salario.pdb
+C:\Users\Marcelina\Desktop\projectApp\Exercicio_Salario\Exercicio_Salario\obj\Debug\Exercicio_Salario.csproj.AssemblyReference.cache
+C:\Users\Marcelina\Desktop\projectApp\Exercicio_Salario\Exercicio_Salario\obj\Debug\Exercicio_Salario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcelina\Desktop\projectApp\Exercicio_Salario\Exercicio_Salario\obj\Debug\Exercicio_Salario.csproj.CoreCompileInputs.cache
+C:\Users\Marcelina\Desktop\projectApp\Exercicio_Salario\Exercicio_Salario\obj\Debug\Exercicio_Salario.exe
+C:\Users\Marcelina\Desktop\projectApp\Exercicio_Salario\Exercicio_Salario\obj\Debug\Exercicio_Salario.pdb

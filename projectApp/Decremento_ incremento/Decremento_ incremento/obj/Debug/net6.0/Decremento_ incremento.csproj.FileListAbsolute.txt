@@ -1,0 +1,5 @@
+C:\Users\Marcelina\Desktop\projectApp\Decremento_ incremento\Decremento_ incremento\obj\Debug\net6.0\Decremento_ incremento.csproj.AssemblyReference.cache
+C:\Users\Marcelina\Desktop\projectApp\Decremento_ incremento\Decremento_ incremento\obj\Debug\net6.0\Decremento_ incremento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelina\Desktop\projectApp\Decremento_ incremento\Decremento_ incremento\obj\Debug\net6.0\Decremento_ incremento.AssemblyInfoInputs.cache
+C:\Users\Marcelina\Desktop\projectApp\Decremento_ incremento\Decremento_ incremento\obj\Debug\net6.0\Decremento_ incremento.AssemblyInfo.cs
+C:\Users\Marcelina\Desktop\projectApp\Decremento_ incremento\Decremento_ incremento\obj\Debug\net6.0\Decremento_ incremento.csproj.CoreCompileInputs.cache

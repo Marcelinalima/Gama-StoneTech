@@ -1,0 +1,8 @@
+C:\Users\Marcelina\Desktop\ExerciciosStone\Array_exercicios\Array_exercicios\bin\Debug\Array_exercicios.exe.config
+C:\Users\Marcelina\Desktop\ExerciciosStone\Array_exercicios\Array_exercicios\bin\Debug\Array_exercicios.exe
+C:\Users\Marcelina\Desktop\ExerciciosStone\Array_exercicios\Array_exercicios\bin\Debug\Array_exercicios.pdb
+C:\Users\Marcelina\Desktop\ExerciciosStone\Array_exercicios\Array_exercicios\obj\Debug\Array_exercicios.csproj.AssemblyReference.cache
+C:\Users\Marcelina\Desktop\ExerciciosStone\Array_exercicios\Array_exercicios\obj\Debug\Array_exercicios.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcelina\Desktop\ExerciciosStone\Array_exercicios\Array_exercicios\obj\Debug\Array_exercicios.csproj.CoreCompileInputs.cache
+C:\Users\Marcelina\Desktop\ExerciciosStone\Array_exercicios\Array_exercicios\obj\Debug\Array_exercicios.exe
+C:\Users\Marcelina\Desktop\ExerciciosStone\Array_exercicios\Array_exercicios\obj\Debug\Array_exercicios.pdb
